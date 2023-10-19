@@ -1,1 +1,5 @@
-System.out.println("Hello GIT!");
+class Osztaly{
+	void kiir(){
+		System.out.println("Hello GIT!");
+	}
+}
